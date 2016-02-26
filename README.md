@@ -1,4 +1,4 @@
-# GameDesgin02
+# GameDesign02
 
 ##This is for the students of BHSVA attending the Game Design Class
 
